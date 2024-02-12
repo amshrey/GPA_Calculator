@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPA_ambatis1_Calculator</string>
+    <string name="msg_app">GPA Calculator</string>
+    <string name="textview_1">Course 1</string>
+    <string name="textview_2">Course 2</string>
+    <string name="textview_3">Course 3</string>
+    <string name="textview_4">Course 4</string>
+    <string name="textview_5">Course 5</string>
+    <string name="button_beforeClick">Compute GPA</string>
+    <string name="button_afterClick">Clear Form</string>
+</resources>
